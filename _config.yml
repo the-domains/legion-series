@@ -1,0 +1,28 @@
+name: Legion Series
+favicon: null
+layout_spectrum: 0.8685841266997159
+typography_spectrum: 0.628751652315259
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.17903089337050915
+  lightness: 0.3367568317335099
+  saturation: 0.41352516133338213
+  rhythmicContrast: 0.22029212396591902
+purpose: []
